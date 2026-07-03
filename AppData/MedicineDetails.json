@@ -88,5 +88,14 @@
     "Quantity": 7,
     "Price": 640,
     "Brand": "Cipla"
+  },
+  {
+    "Id": 1011,
+    "Name": "Thyronorm",
+    "Notes": "Medicine for Thyroid",
+    "ExpiryDate": "2026-12-31",
+    "Quantity": 42,
+    "Price": 256,
+    "Brand": "Thyrocare"
   }
 ]
