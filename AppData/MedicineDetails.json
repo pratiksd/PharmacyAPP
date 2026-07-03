@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1001,
+    "Name": "Dolo",
+    "Notes": "200mg per unit to be intake",
+    "ExpiryDate": "2026-09-10",
+    "Quantity": 32,
+    "Price": 125.00,
+    "Brand": "Dolo"
+  },
+  {
+    "Id": 1002,
+    "Name": "Dolo2",
+    "Notes": "200mg per unit to be intake",
+    "ExpiryDate": "2026-09-10",
+    "Quantity": 3,
+    "Price": 150.00,
+    "Brand": "Dolo2"
+  },
+  {
+    "Id": 1003,
+    "Name": "Dolo3",
+    "Notes": "200mg per unit to be intake",
+    "ExpiryDate": "2026-07-10",
+    "Quantity": 9,
+    "Price": 2050.00,
+    "Brand": "Dolo3"
+  },
+  {
+    "Id": 1004,
+    "Name": "Dolo4",
+    "Notes": "Test adding Dolo4",
+    "ExpiryDate": "2026-07-25",
+    "Quantity": 10,
+    "Price": 190,
+    "Brand": "Dolo4"
+  },
+  {
+    "Id": 1005,
+    "Name": "Dolo4",
+    "Notes": "Test adding Dolo4",
+    "ExpiryDate": "2026-07-25",
+    "Quantity": 10,
+    "Price": 190,
+    "Brand": "Dolo4"
+  },
+  {
+    "Id": 1006,
+    "Name": "string",
+    "Notes": "string",
+    "ExpiryDate": "2026-07-02",
+    "Quantity": 0,
+    "Price": 0,
+    "Brand": "string"
+  },
+  {
+    "Id": 1007,
+    "Name": "Crocin 650",
+    "Notes": "Take after food",
+    "ExpiryDate": "2027-12-31",
+    "Quantity": 100,
+    "Price": 25.5,
+    "Brand": "GSK"
+  },
+  {
+    "Id": 1008,
+    "Name": "Crocin 21",
+    "Notes": "testing crocin 21",
+    "ExpiryDate": "2027-12-31",
+    "Quantity": 260,
+    "Price": 900,
+    "Brand": "Cipla"
+  },
+  {
+    "Id": 1009,
+    "Name": "Saridon",
+    "Notes": "Less Qty",
+    "ExpiryDate": "2027-12-31",
+    "Quantity": 7,
+    "Price": 340,
+    "Brand": "Cipla"
+  },
+  {
+    "Id": 1010,
+    "Name": "Saridon21",
+    "Notes": "for head body pain",
+    "ExpiryDate": "2026-07-01",
+    "Quantity": 7,
+    "Price": 640,
+    "Brand": "Cipla"
+  }
+]
